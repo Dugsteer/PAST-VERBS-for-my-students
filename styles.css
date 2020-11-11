@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+
+body{
+    padding: 0;
+    height: 100vh;
+    box-sizing: border-box;
+    font-family: Lato, sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: #368cbf;
+}
+
+.container{
+    display: flex;
+    width: 800px;
+    margin-top: 4rem;
+    font-size: 1.6rem;
+    color: #fff;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.butclass {
+    width: 100px;
+    margin-top: 4rem;
+    height: 40px;
+    background-color: #7ebc59;
+    color: #fff;
+    font-weight: bolder;
+    font-size: 1.2rem;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+.butclass:hover {
+    transform: scale(1.1);
+    background-color: #70A950;
+    
+}
+
+.butclass:active {
+    transform: translateY(2px);
+    outline: none;
+}
+
+.butclass:focus {
+    outline: none;
+
+}
