@@ -22,7 +22,7 @@ firstArray = [
   "What countries would you be afraid to travel to? Why?",
   "What makes you particularly happy?",
   "What is the most relaxing activity according to you? Why?",
-  "Do you agree with the capital punishment in any circumstances? Explain.",
+  "Do you agree with capital punishment in any circumstances? Explain.",
   "Have you ever been in a car accident? Describe what happened.",
   "What is your dream job?",
   "What advice would you give a newlywed couple? Why?",
